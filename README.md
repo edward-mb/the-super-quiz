@@ -1,4 +1,4 @@
-# vue-animations-and-transitions
+# The Super Quiz
 
 ## Project setup
 ```
